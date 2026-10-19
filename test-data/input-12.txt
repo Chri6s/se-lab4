@@ -1,0 +1,4 @@
+# Exercise the SINGLE fallback where both stores are empty after the primary shot.
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
