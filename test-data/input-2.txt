@@ -1,0 +1,4 @@
+# SINGLE mode alternates between the stores
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

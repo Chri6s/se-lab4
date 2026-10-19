@@ -1,0 +1,5 @@
+# Exercise empty commands, HELP, unknown commands and EXIT.
+
+UNKNOWN
+EXIT
+GT4500,1,0,1,0

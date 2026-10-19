@@ -1,0 +1,7 @@
+# Exercise CLI validation errors.
+TORPEDO,SINGLE
+GT4500
+GT4500,invalid,0,1,0
+GT4500,1,0,1,0
+TORPEDO
+TORPEDO,UNKNOWN
